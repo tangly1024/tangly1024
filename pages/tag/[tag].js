@@ -2,11 +2,11 @@ import Head from "next/head";
 import { useEffect } from "react";
 import styles from "../../styles/Home.module.css";
 
-const RedirectArticle = ({ slug }) => {
+const RedirectTag = ({ tag }) => {
 
   useEffect(()=>{
-    if(slug){
-      window.location.href = `https://blog.tangly1024.com/article/${slug}`
+    if(tag){
+      window.location.href = `https://blog.tangly1024.com/tag/${tag}`
     }
   })
  
@@ -20,9 +20,9 @@ const RedirectArticle = ({ slug }) => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>正在为您加载文章</h1>
+        <h1 className={styles.title}>正在为您加载标签</h1>
 
-        <p className={styles.description}>{slug}</p>
+        <p className={styles.description}>{tag}</p>
       </main>
 
       <footer className={styles.footer}>
@@ -42,11 +42,11 @@ export async function getStaticPaths() {
   };
 }
 
-export async function getStaticProps({ params: { slug } }) {
+export async function getStaticProps({ params: { tag } }) {
   return {
-    props: { slug },
+    props: { tag },
     revalidate: 1,
   };
 }
 
-export default RedirectArticle;
+export default RedirectTag;
