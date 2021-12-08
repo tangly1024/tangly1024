@@ -7,17 +7,17 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>塘里</title>
-        <meta name="description" content="唐风集里，收卷波澜a" />
+        <meta name="description" content="唐风集里，收卷波澜" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          欢迎访问我的主页
+          唐风集里，收卷波澜
         </h1>
 
         <p className={styles.description}>
-          唐风集里，收卷波澜
+          在这里一起编程、一起思考
         </p>
 
         <div className={styles.grid}>
