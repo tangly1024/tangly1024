@@ -9,12 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "12.0.1",
+    "next": "12.0.7",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "@material-tailwind/react": "^0.3.4",
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "react-cusdis": "2.1.3"
   },
   "devDependencies": {
     "eslint": "7.32.0",
-    "eslint-config-next": "11.1.0"
+    "eslint-config-next": "^11.0.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.23.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-react": "^7.23.2",
+    "next-sitemap": "^1.6.102",
+    "postcss": "^8.2.15",
+    "tailwindcss": "^2.1.4"
   }
 }
