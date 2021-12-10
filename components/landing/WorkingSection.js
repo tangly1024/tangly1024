@@ -44,14 +44,14 @@ export default function WorkingSection() {
                         </div>
                         <H4 color="gray">Working with us is a pleasure</H4>
                         <LeadText color="blueGray">
-                            Don't let your uses guess by attaching tooltips and
+                            Don&apos;t let your uses guess by attaching tooltips and
                             popoves to any element. Just make sure you enable
                             them first via JavaScript.
                         </LeadText>
                         <LeadText color="blueGray">
                             The kit comes with three pre-built pages to help you
                             get started faster. You can change the text and
-                            images and you're good to go. Just make sure you
+                            images and you&apos;re good to go. Just make sure you
                             enable them first via JavaScript.
                         </LeadText>
                         <a

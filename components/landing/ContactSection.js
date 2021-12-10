@@ -15,15 +15,15 @@ export default function ContactSection() {
                 <div className="flex flex-wrap -mt-12 justify-center">
                     <ContactCard icon="stars" title="Excelent Services">
                         Some quick example text to build on the card title and
-                        make up the bulk of the card's content.
+                        make up the bulk of the card&apos;s content.
                     </ContactCard>
                     <ContactCard icon="insert_chart" title="Grow Your Market">
                         Some quick example text to build on the card title and
-                        make up the bulk of the card's content.
+                        make up the bulk of the card&apos;s content.
                     </ContactCard>
                     <ContactCard icon="launch" title="Launch Time">
                         Some quick example text to build on the card title and
-                        make up the bulk of the card's content.
+                        make up the bulk of the card&apos;s content.
                     </ContactCard>
                 </div>
 

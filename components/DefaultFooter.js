@@ -1,6 +1,7 @@
 import H5 from '@material-tailwind/react/Heading5';
 import LeadText from '@material-tailwind/react/LeadText';
 import Icon from '@material-tailwind/react/Icon';
+import Link from 'next/link';
 
 export default function DefaultFooter() {
     return (
@@ -117,13 +118,12 @@ export default function DefaultFooter() {
                                             </a>
                                         </li>
                                         <li>
-                                            <a
-                                                href="/contact"
-                                                rel="noreferrer"
-                                                className="text-gray-700 hover:text-gray-900 block pb-2 text-sm"
-                                            >
+                                         
+                                            <Link href="/contact">   
+                                            <a rel="noreferrer" className="text-gray-700 hover:text-gray-900 block pb-2 text-sm">
                                                 Contact Us
                                             </a>
+                                            </Link>
                                         </li>
                                     </ul>
                                 </div>
