@@ -35,15 +35,6 @@ export default function DefaultNavbar() {
           <Nav>
             <div className="flex flex-col z-50 lg:flex-row lg:items-center">
               <NavLink
-                href="https://blog.tangly1024.com?ref=home"
-                target="_blank"
-                rel="noreferrer"
-                ripple="light"
-              >
-                <Icon name="description" size="2xl" />
-                &nbsp;Blog
-              </NavLink>
-              <NavLink
                 href="https://game.tangly1024.com?ref=home"
                 target="_blank"
                 rel="noreferrer"
@@ -90,17 +81,6 @@ export default function DefaultNavbar() {
               >
                 Issues
               </NavLink>
-              <Link href="/profile">
-                <a rel="noreferrer">
-                  <Button
-                    color="transparent"
-                    className="bg-white text-black ml-4"
-                    ripple="dark"
-                  >
-                    Profile
-                  </Button>
-                </a>
-              </Link>
             </div>
           </Nav>
         </NavbarCollapse>
