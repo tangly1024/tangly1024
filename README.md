@@ -28,4 +28,4 @@
 VB、C、Altum Designer、Code Composer Studio、STM32、STEP7、Java、JQuery、AngularJS、Bootstrap、Struts、Hibernate、MySQL、SpringBoot、Redis、SpringCloud、Netty、Docker、K8s、PHP、Final Cut Pro、RabbitMQ、Mybatis、Rancher、Vue、UniApp、Oracle、Python、Flask、NextJ、TailWindCSS。
 
 
-出于自学和爱好，我会在Github上开源一些小项目，我的期望是按自己喜欢研究一些有趣的东航西，欢迎邮件或留言与我交流。
+出于自学和爱好，我会在Github上开源一些小项目，我的期望是按自己喜欢研究一些有趣的东西，欢迎邮件或留言与我交流。
