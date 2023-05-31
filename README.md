@@ -1,6 +1,6 @@
 ### Hi，我是tangly1024
 
-我是一名普通的程序员，大学时主修电气工程自动化，毕业后自学Java从事了5年的编程工作。
+一名普通的程序员，电气工程自动化专业，自学编程后从事了5年的软件开发工作，目前在找项目创业，欢迎交流。
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
