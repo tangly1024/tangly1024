@@ -23,7 +23,11 @@
 
 
 
-我比较喜欢折腾，熟悉但**不精通**于以下技能（按接触时间先后）:
+我比较喜欢折腾，对于一个能够提供价值的产品，技术是最不重要的，重要的是你的产品思维和设计能力。
+程序员和画家是一样的，相比于你用什么画笔、什么颜料画画，更重要的是你的作品。
+
+
+目前熟悉但**不精通**于以下技能（按接触时间先后）:
 
 VB、C、Altum Designer、Code Composer Studio、STM32、STEP7、Java、JQuery、AngularJS、Bootstrap、Struts、Hibernate、MySQL、SpringBoot、Redis、SpringCloud、Netty、Docker、K8s、PHP、Final Cut Pro、RabbitMQ、Mybatis、Rancher、Vue、UniApp、Oracle、Python、Flask、NextJ、TailWindCSS。
 
