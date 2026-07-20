@@ -28,33 +28,6 @@
 
 </div>
 
-<!-- 统计卡片：跟随 GitHub 浅色 / 深色模式（prefers-color-scheme） -->
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tangly1024&theme=github_dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tangly1024&theme=github" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tangly1024&theme=github" alt="Profile details" />
-    </picture>
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tangly1024&theme=github_dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tangly1024&theme=github" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tangly1024&theme=github" alt="GitHub stats" />
-    </picture>
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tangly1024&theme=github_dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tangly1024&theme=github" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tangly1024&theme=github" alt="Repos per language" />
-    </picture>
-  </a>
-</div>
-
----
-
 ## 🚀 我在做什么
 
 ### 🔥 当前在研：AI 多因子商业决策大脑
